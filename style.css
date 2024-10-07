@@ -1,0 +1,40 @@
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+} */
+
+/* 
+#b1 {
+    margin-top: 10px;
+} */
+
+#Outer {
+    border: 1px solid black;
+    padding-top: 40px;
+    height: 140px;
+    display: none;
+    background: green;
+}
+
+.b1 {
+    margin: 10px;
+}
+
+p {
+    margin: 8px;
+}
+
+.selected {
+    display: block;
+    border: 2px solidgreen;
+    width: 160px;
+    height: 60px;
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+
+.highlight {
+    background: yellow;
+}
